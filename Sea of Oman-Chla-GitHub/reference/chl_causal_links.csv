@@ -1,0 +1,21 @@
+Driver,Lag (days),Effect Strength,P-value,Direction
+evaporation,1,0.169,0.0,+
+northward_turbulent_surface_stress,4,0.15,0.0,-
+northward_turbulent_surface_stress,3,0.148,0.0,-
+northward_turbulent_surface_stress,5,0.141,0.0,-
+evaporation,0,0.131,0.0,+
+northward_turbulent_surface_stress,6,0.13,0.0,-
+northward_turbulent_surface_stress,7,0.126,0.0,-
+friction_velocity,3,0.12,0.0,+
+northward_turbulent_surface_stress,2,0.118,0.0,-
+friction_velocity,4,0.107,0.0,+
+friction_velocity,1,0.101,0.0,+
+friction_velocity,2,0.099,0.0,+
+friction_velocity,0,0.098,0.0,+
+boundary_layer_height,1,0.093,0.0,-
+no3,0,0.092,0.0,-
+total_precipitation,0,0.087,0.0,-
+friction_velocity,5,0.087,0.0,+
+10m_u_component_of_wind,1,0.078,0.0,-
+friction_velocity,7,0.077,0.0,+
+friction_velocity,6,0.076,0.0,+

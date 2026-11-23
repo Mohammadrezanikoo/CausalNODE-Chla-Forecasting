@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+title: "Causal Neural Ordinary Differential Equation for Multi-Step Marine Chlorophyll-a Forecasting"
+type: software
+authors:
+  - family-names: Zarei
+    given-names: Erfan
+  - family-names: Nikoo
+    given-names: Mohammad Reza
+  - family-names: Al-Rawas
+    given-names: Ghazi
+  - family-names: Nazari
+    given-names: Rouzbeh
+  - family-names: Hamouda
+    given-names: Mohamed A.
+  - family-names: Gandomi
+    given-names: Amir H.
